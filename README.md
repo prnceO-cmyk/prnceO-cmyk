@@ -7,11 +7,7 @@
 | 🛡️ Knows a bit of CyberSecurity
 
 ## Languages
-- Python
-- HTML
-- CSS
-- JavaScript
-- MySQL
+![Static Badge](https://img.shields.io/badge/#3776AB)
 
 ## Wants to learn:
 - CyberSecurity deeper
