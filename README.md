@@ -1,10 +1,10 @@
 ## Ameer S. Aleryani
 
 ## About Me
-💻 Software engineer
-🐧Linux user
-🖥️ Programmer
-🛡️ Knows a bit of CyberSecurity
+| 💻 Software engineer
+| 🐧Linux user
+| 🖥️ Programmer
+| 🛡️ Knows a bit of CyberSecurity
 
 ## Languages
 - Python
