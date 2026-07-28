@@ -1,4 +1,6 @@
 ## Ameer S. Aleryani
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 
 ## About Me
 | 💻 Software engineer
