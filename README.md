@@ -1,16 +1,24 @@
-## Hi there 👋
+## Ameer S. Aleryani
 
-<!--
-**prnceO-cmyk/prnceO-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+💻 Software engineer
+🐧Linux user
+🖥️ Programmer
+🛡️ Knows a bit of CyberSecurity
 
-Here are some ideas to get you started:
+## Languages
+- Python
+- HTML
+- CSS
+- JavaScript
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Wants to learn:
+- CyberSecurity deeper
+- AI industry
+- Flutter
+- C++
+- C & Assembly languages
+
+## My Contact
+- Email: ameer.aleryani2010@gmail.com
