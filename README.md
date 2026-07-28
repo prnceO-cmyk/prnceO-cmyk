@@ -1,4 +1,4 @@
-## https://img.shields.io/badge/Ameer_S._Aleryani
+## https://img.shields.io/badge/just%20the%20message-8A2BE2
 
 ## About Me
 | 💻 Software engineer
