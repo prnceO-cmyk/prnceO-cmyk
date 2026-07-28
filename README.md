@@ -1,4 +1,4 @@
-## ![Static Badge](https://img.shields.io/badge/Ameer_S._Aleryani-blue)
+## ![Static Badge]([https://img.shields.io/badge/Ameer_S._Aleryani-blue](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge))
 
 ## About Me
 | 💻 Software engineer
