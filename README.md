@@ -8,9 +8,9 @@
 
 ## Languages
 
-![Static Badge](https://img.shields.io/badge/github-repo-blue?logo=python)
+![Static Badge](https://img.shields.io/badge/Python-blue?logo=python)
 
-- HTML
+![Static Badge](https://img.shields.io/badge/HTML-orange?logo=html)
 - CSS
 - JavaScript
 - MySQL
