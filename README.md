@@ -10,7 +10,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Python-blue?logo=python)
 
-![Static Badge](https://img.shields.io/badge/HTML-orange?logo=html)
+![Static Badge](https://img.shields.io/badge/orange?logo=for-the-badge&logo=html&logoColor=orange)
 
 ![Static Badge](https://img.shields.io/badge/CSS-purple?logo=css)
 
