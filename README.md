@@ -7,8 +7,8 @@
 | 🛡️ Knows a bit of CyberSecurity
 
 ## Languages
-
-![Static Badge](https://img.shields.io/badge/Python-blue?logo=python)
+)
+![Static Badge](https://img.shields.io/badge/Python-34ebba?logo=for-the-badge&logo=python)
 
 ![Static Badge](https://img.shields.io/badge/HTML-orange?logo=for-the-badge&logo=html&logoColor=34ebba)
 
