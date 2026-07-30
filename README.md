@@ -12,11 +12,11 @@
 
 ![Static Badge](https://img.shields.io/badge/HTML-orange?logo=html)
 
-![Static Badge](https://img.shields.io/badge/CSS-orange?logo=css)
+![Static Badge](https://img.shields.io/badge/CSS-purple?logo=css)
 
-![Static Badge](https://img.shields.io/badge/JavaScript-orange?logo=javascript)
+![Static Badge](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 
-![Static Badge](https://img.shields.io/badge/MySQL-orange?logo=mysql)
+![Static Badge](https://img.shields.io/badge/MySQL-red?logo=mysql)
 
 
 ## Wants to learn:
