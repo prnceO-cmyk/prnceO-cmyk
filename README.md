@@ -7,8 +7,9 @@
 | 🛡️ Knows a bit of CyberSecurity
 
 ## Languages
-![StaticBadge]
-(https://img.shields.io/badge/github-repo-blue?logo=python)
+
+![Static Badge](https://img.shields.io/badge/github-repo-blue?logo=python)
+
 - HTML
 - CSS
 - JavaScript
