@@ -8,11 +8,10 @@
 
 ## Languages
 )
-![Static Badge](https://img.shields.io/badge/Python-34ebba?logo=python)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Static Badge](https://img.shields.io/badge/HTML-orange?logo=for-the-badge&logo=html&logoColor=34ebba)
-
-![Static Badge](https://img.shields.io/badge/CSS-purple?logo=css)
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 
