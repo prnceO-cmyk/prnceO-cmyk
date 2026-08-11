@@ -23,6 +23,7 @@
 - AI industry
 - Flutter/Android Developement
 - C++
+- Java
 - C & Assembly languages
 
 ## My Contact
