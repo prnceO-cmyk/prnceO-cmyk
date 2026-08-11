@@ -6,7 +6,7 @@
 | 🖥️ Programmer
 | 🛡️ Knows a bit of CyberSecurity
 
-## Languages
+## Languages & tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -14,11 +14,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![MySQL](https://img.shields.io/badge/MySQL-red?style=for-the-badge&logo=mysql)
 
+- Node.js
+- express.js
+
 
 ## Wants to learn:
 - CyberSecurity deeper
 - AI industry
-- Flutter
+- Flutter/Android Developement
 - C++
 - C & Assembly languages
 
