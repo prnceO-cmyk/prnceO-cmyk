@@ -29,7 +29,7 @@
 ## Languages & tools for game dev
 
 ![C++](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=c++&logoColor=348cc2)
-![raylib](https://img.shields.io/badge/Raylib-white?style=for-the-badge&logo=raylib&logoColor=white)
+![raylib](https://img.shields.io/badge/Raylib-black?style=for-the-badge&logo=raylib&logoColor=white)
 ![Vulkan](https://img.shields.io/badge/Vulkan-white?style=for-the-badge&logo=vulkan&logoColor=348cc2)
 ![opengl](https://img.shields.io/badge/OpenGL-white?style=for-the-badge&logo=opengl&logoColor=348cc2)
 ![sdk](https://img.shields.io/badge/SDK-3776AB?style=for-the-badge)
