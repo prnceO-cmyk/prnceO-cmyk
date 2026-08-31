@@ -29,13 +29,13 @@
 ## Languages & tools for game dev
 
 ![C++](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=c++&logoColor=348cc2)
-![raylib](https://img.shields.io/badge/Raylib-3776AB?style=for-the-badge&logo=raylib&logoColor=white)
-![Vulkan](https://img.shields.io/badge/Vulkan-3776AB?style=for-the-badge&logo=vulkan&logoColor=348cc2)
-![opengl](https://img.shields.io/badge/OpenGL-3776AB?style=for-the-badge&logo=opengl&logoColor=348cc2)
+![raylib](https://img.shields.io/badge/Raylib-white?style=for-the-badge&logo=raylib&logoColor=white)
+![Vulkan](https://img.shields.io/badge/Vulkan-white?style=for-the-badge&logo=vulkan&logoColor=348cc2)
+![opengl](https://img.shields.io/badge/OpenGL-white?style=for-the-badge&logo=opengl&logoColor=348cc2)
 ![sdk](https://img.shields.io/badge/SDK-3776AB?style=for-the-badge)
-![blender](https://img.shields.io/badge/Blender-3776AB?style=for-the-badge&logo=blender&logoColor=orange)
-![unity](https://img.shields.io/badge/Unity(Still_learning)-3776AB?style=for-the-badge&logo=unity&logoColor=black)
-![unreal](https://img.shields.io/badge/UnrealEngine-3776AB?style=for-the-badge&logo=unrealengine&logoColor=white)
+![blender](https://img.shields.io/badge/Blender-black?style=for-the-badge&logo=blender&logoColor=orange)
+![unity](https://img.shields.io/badge/Unity(Still_learning)-white?style=for-the-badge&logo=unity&logoColor=black)
+![unreal](https://img.shields.io/badge/UnrealEngine-black?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ## Languages & tools for networking & cybersecurity
 
@@ -49,9 +49,9 @@
 ![vs-code](https://img.shields.io/badge/vs_code-3776AB?style=for-the-badge)
 ![Github](https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=black)
 ![terminal](https://img.shields.io/badge/Terminal(bash)-white?style=for-the-badge&logo=gnometerminal&logoColor=black)
-![blender](https://img.shields.io/badge/Blender-3776AB?style=for-the-badge&logo=blender&logoColor=orange)
-![unity](https://img.shields.io/badge/Unity(Still_learning)-3776AB?style=for-the-badge&logo=unity&logoColor=black)
-![unreal](https://img.shields.io/badge/UnrealEngine-3776AB?style=for-the-badge&logo=unrealengine&logoColor=white)
+![blender](https://img.shields.io/badge/Blender-black?style=for-the-badge&logo=blender&logoColor=orange)
+![unity](https://img.shields.io/badge/Unity(Still_learning)-white?style=for-the-badge&logo=unity&logoColor=black)
+![unreal](https://img.shields.io/badge/UnrealEngine-black?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ## Wants to learn:
 - AI industry
