@@ -50,7 +50,7 @@
 ![Github](https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=black)
 ![terminal](https://img.shields.io/badge/Terminal(bash)-white?style=for-the-badge&logo=gnometerminal&logoColor=black)
 ![blender](https://img.shields.io/badge/Blender-black?style=for-the-badge&logo=blender&logoColor=orange)
-![unity](https://img.shields.io/badge/Unity(Still_learning)-white?style=for-the-badge&logo=unity&logoColor=black)
+![unity](https://img.shields.io/badge/Unity-white?style=for-the-badge&logo=unity&logoColor=black)
 ![unreal](https://img.shields.io/badge/UnrealEngine-black?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ## Wants to learn:
