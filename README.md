@@ -12,6 +12,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=c++&logoColor=348cc2)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css)
 
 ## Languages & tools for web dev
 
@@ -31,7 +34,7 @@
 ![opengl](https://img.shields.io/badge/OpenGL-3776AB?style=for-the-badge&logo=opengl&logoColor=348cc2)
 ![sdk](https://img.shields.io/badge/SDK-3776AB?style=for-the-badge)
 ![blender](https://img.shields.io/badge/Blender-3776AB?style=for-the-badge&logo=blender&logoColor=orange)
-![unity](https://img.shields.io/badge/Unity(Still-learning)-3776AB?style=for-the-badge&logo=unity&logoColor=black)
+![unity](https://img.shields.io/badge/Unity(Still_learning)-3776AB?style=for-the-badge&logo=unity&logoColor=black)
 ![unreal](https://img.shields.io/badge/UnrealEngine-3776AB?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ## Languages & tools for networking & cybersecurity
@@ -43,11 +46,11 @@
 
 ## My work environment
 
-![vs-code](https://img.shields.io/badge/vs-code-3776AB?style=for-the-badge)
+![vs-code](https://img.shields.io/badge/vs_code-3776AB?style=for-the-badge)
 ![Github](https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=black)
 ![terminal](https://img.shields.io/badge/Terminal(bash)-white?style=for-the-badge&logo=gnometerminal&logoColor=black)
 ![blender](https://img.shields.io/badge/Blender-3776AB?style=for-the-badge&logo=blender&logoColor=orange)
-![unity](https://img.shields.io/badge/Unity(Still-learning)-3776AB?style=for-the-badge&logo=unity&logoColor=black)
+![unity](https://img.shields.io/badge/Unity(Still_learning)-3776AB?style=for-the-badge&logo=unity&logoColor=black)
 ![unreal](https://img.shields.io/badge/UnrealEngine-3776AB?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ## Wants to learn:
