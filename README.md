@@ -15,6 +15,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css)
+![C](https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=c)
 
 ## Languages & tools for web dev
 
