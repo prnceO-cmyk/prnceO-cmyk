@@ -38,6 +38,7 @@
 ![blender](https://img.shields.io/badge/Blender-black?style=for-the-badge&logo=blender&logoColor=orange)
 ![unity](https://img.shields.io/badge/Unity(Still_learning)-white?style=for-the-badge&logo=unity&logoColor=black)
 ![unreal](https://img.shields.io/badge/UnrealEngine-black?style=for-the-badge&logo=unrealengine&logoColor=white)
+![cmake](https://img.shields.io/badge/cmake-3776AB?style=for-the-badge&logo=cmake&logoColor=348cc2)
 
 ## Languages & tools for networking & cybersecurity
 
