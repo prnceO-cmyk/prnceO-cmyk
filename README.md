@@ -16,7 +16,7 @@
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css)
 ![C](https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=c)
-![assembly](https://img.shields.io/badge/Assembly-3776AB?style=for-the-badge&logo=assembly)
+![assembly](https://img.shields.io/badge/Assembly-white?style=for-the-badge&logo=assembly)
 
 ## Languages & tools for web dev
 
@@ -34,7 +34,7 @@
 ![raylib](https://img.shields.io/badge/Raylib-black?style=for-the-badge&logo=raylib&logoColor=white)
 ![Vulkan](https://img.shields.io/badge/Vulkan-white?style=for-the-badge&logo=vulkan&logoColor=348cc2)
 ![opengl](https://img.shields.io/badge/OpenGL-white?style=for-the-badge&logo=opengl&logoColor=348cc2)
-![sdk](https://img.shields.io/badge/SDK-3776AB?style=for-the-badge)
+![sdl](https://img.shields.io/badge/SDL-3776AB?style=for-the-badge&logo=sdl3)
 ![blender](https://img.shields.io/badge/Blender-black?style=for-the-badge&logo=blender&logoColor=orange)
 ![unity](https://img.shields.io/badge/Unity(Still_learning)-white?style=for-the-badge&logo=unity&logoColor=black)
 ![unreal](https://img.shields.io/badge/UnrealEngine-black?style=for-the-badge&logo=unrealengine&logoColor=white)
