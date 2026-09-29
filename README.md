@@ -1,11 +1,11 @@
 ![Static Badge](https://img.shields.io/badge/Ameer_Aleryani-brightgreen?style=for-the-badge)
 
 ## About Me
-| 💻 Software engineer
+| 💻 Software specialist 
 | 🕸️ Web dev
-| 🐧Linux user
+| 🐧 Linux user
 | 🖥️ Programmer
-| 🛡️ Knows a bit of CyberSecurity
+| 🛡️ CyberSecurity Specialist 
 | 🎮 Game dev
 
 ## Programming languages
@@ -28,6 +28,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-green?style=for-the-badge)
 
+## Databases 
+![MySQL](https://img.shields.io/badge/MySQL-red?style=for-the-badge&logo=mysql)
+
 ## Languages & tools for game dev
 
 ![C++](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=c++&logoColor=348cc2)
@@ -38,7 +41,7 @@
 ![blender](https://img.shields.io/badge/Blender-black?style=for-the-badge&logo=blender&logoColor=orange)
 ![unity](https://img.shields.io/badge/Unity(Still_learning)-white?style=for-the-badge&logo=unity&logoColor=black)
 ![unreal](https://img.shields.io/badge/UnrealEngine-black?style=for-the-badge&logo=unrealengine&logoColor=white)
-![cmake](https://img.shields.io/badge/cmake-white?style=for-the-badge&logo=cmake)
+![cmake](https://img.shields.io/badge/cmake-black?style=for-the-badge&logo=cmake)
 
 ## Languages & tools for networking & cybersecurity
 
@@ -46,6 +49,8 @@
 ![git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=orange)
 ![linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black)
 ![cloudflare](https://img.shields.io/badge/Cloudflare-white?style=for-the-badge&logo=cloudflare&logoColor=orange)
+![C](https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=c)
+![assembly](https://img.shields.io/badge/Assembly-white?style=for-the-badge&logo=assembly)
 
 ## My work environment
 
@@ -58,9 +63,9 @@
 
 ## Wants to learn:
 - AI industry
-- Flutter/Android Developement
-- Java
-- C & Assembly languages
+- Android Developement
+- Java & C#
+- Master web dev fully (didn't learned PHP, didn't mastered JavaScript well, etc. but can make full working websites)
 
-## My Contact
-- Email: ameer.aleryani2010@gmail.com
+##My goal:
+- Is to master computing fully, finish learning wht I need to learn. I know learning computer is endless but that's what I need to finish it.
