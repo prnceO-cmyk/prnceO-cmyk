@@ -67,5 +67,5 @@
 - Java & C#
 - Master web dev fully (didn't learned PHP, didn't mastered JavaScript well, etc. but can make full working websites)
 
-##My goal:
+## My goal:
 - Is to master computing fully, finish learning wht I need to learn. I know learning computer is endless but that's what I need to finish it.
