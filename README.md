@@ -1,4 +1,3 @@
-![Static Badge](https://img.shields.io/badge/Ameer_Aleryani-brightgreen?style=for-the-badge)
 
 ## About Me
 | 💻 Software specialist 
